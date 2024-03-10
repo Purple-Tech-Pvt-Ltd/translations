@@ -25,5 +25,15 @@
     "auth": "प्रमाणीकरण",
     "logout": "लगआउट",
     "save": "लगआउट",
-    "private_account": "व्यक्तिगत अकाउंट"
+    "private_account": "व्यक्तिगत अकाउंट",
+    "personal_information": "व्यक्तिगत जानकारी",
+    "name": "प्नाम",
+    "username": "प्रयोगकर्ता नाम",
+    "bio": "बायो",
+    "social_profiles": "सामाजिक प्रोफाइलहरू",
+    "facebook": "फेसबुक",
+    "instagram": "इन्स्टाग्राम",
+    "update_profile": "दृश्यता",
+    "empty": "खाली",
+    "you_may_like": "तपाईलाई मन पर्न सक्छ"
 }

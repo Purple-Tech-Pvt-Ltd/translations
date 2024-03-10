@@ -25,5 +25,16 @@
     "auth": "Auth",
     "logout": "Logout",
     "save": "Save",
-    "private_account": "Private Account"
+    "private_account": "Private Account",
+    "personal_information": "Personal Information",
+    "name": "Name",
+    "username": "Username",
+    "bio": "Bio",
+    "social_profiles": "Social Profiles",
+    "facebook": "Facebook",
+    "instagram": "Instagram",
+    "update_profile": "Update Profile",
+    "visibility": "Visibility",
+    "empty": "Empty",
+    "you_may_like": "You may like"
 }

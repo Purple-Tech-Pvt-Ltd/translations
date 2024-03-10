@@ -25,5 +25,16 @@
     "auth": "प्रमाणीकरण",
     "logout": "लॉगआउट",
     "save": "प्सहेजें",
-    "private_account": "निजी अकाउंट"
+    "private_account": "निजी अकाउंट",
+    "personal_information": "व्यक्तिगत जानकारी",
+    "name": "नाम",
+    "username": "उपयोगकर्ता नाम",
+    "bio": "बायो",
+    "social_profiles": "सामाजिक रूपरेखाएं",
+    "facebook": "फेसबुक",
+    "instagram": "इन्स्टाग्राम",
+    "update_profile": "प्रोफ़ाइल अपडेट करें",
+    "visibility": "दृश्यता",
+    "empty": "खाली",
+    "you_may_like": "शायद आपको पसंद आये"
 }
