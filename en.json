@@ -36,5 +36,6 @@
     "update_profile": "Update Profile",
     "visibility": "Visibility",
     "empty": "Empty",
-    "you_may_like": "You may like"
+    "you_may_like": "You may like",
+    "comments_disabled": "Comments are disabled for this video."
 }
